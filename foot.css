@@ -1,0 +1,16 @@
+.foot {
+	height: 50px;
+	text-align:center; 
+	color: white;
+	margin: 0;
+	background-color: rgba(40,40,40,1.00);
+}
+
+.foot2 {
+	position:relative;
+	top: 400px;
+	text-align:center; 
+	color: white;
+	margin: 0;
+	background-color: black;
+}

@@ -1,0 +1,77 @@
+.shearch-class {
+	width: 1100px;
+	margin: 0 auto;
+}
+
+.search-line {
+	border-radius: 10px;
+	width: 1000px;
+	border-bottom:7px solid #A8A8A8;
+	margin-bottom: 40px;
+}
+
+.search-round {
+	padding-top: 40px;
+}
+
+.search-title {
+	margin-bottom: 10px;
+}
+
+.search-image-work {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+.search-mod_image1 {
+	width: 210px;
+}
+
+.search-mod_image2 {
+	position: relative;
+	top: -252px;
+	left: 300px;
+	width: 210px;
+}
+
+.search-mod_image3 {
+	position: relative;
+	top: -506px;
+	left: 600px;
+	width: 210px;
+}
+
+.search-mod_image4 {
+	position: relative;
+	top: -760px;
+	left: 900px;
+	width: 210px;
+}
+
+.search-mod_image5 {
+	position: relative;
+	top: -710px;
+	left: 0px;
+	width: 210px;
+}
+
+.search-mod_image6 {
+	position: relative;
+	top: -962px;
+	left: 300px;
+	width: 210px;
+}
+
+.search-mod_image7 {
+	position: relative;
+	top: -1214px;
+	left: 600px;
+	width: 210px;
+}
+
+.search-mod_image8 {
+	position: relative;
+	top: -1466px;
+	left: 900px;
+	width: 210px;
+}
